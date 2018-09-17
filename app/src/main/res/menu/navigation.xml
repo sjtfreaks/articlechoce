@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="首页"
+        android:icon="@drawable/home"
+    />
+    <item
+        android:id="@+id/newbook"
+        android:title="新书推荐"
+        android:icon="@drawable/gift"
+        />
+    <item
+        android:id="@+id/chat"
+        android:title="悦读精选"
+        android:icon="@drawable/day"
+        />
+    <item
+        android:id="@+id/user"
+        android:title="个人中心"
+        android:icon="@drawable/chat"
+        />
+</menu>
